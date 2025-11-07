@@ -15,5 +15,6 @@ This program provides a clear and understandable visual representation of the Bu
    You will be promted to select the number of elements to be sorted through, and how fast they are sorted through (fps)  
 
 **4. Watch the magic happen:**  
-  The program should autimatically generate a set of bars of random heights across the screen (you determined the number of bars).     
-  It will them sort through each of the random elements using the Bubble Sort algorithm, highlightig each swapped element as it sorts through them.     
+  The program should autimatically generate a set of bars with random heights across the screen (you determined the number of bars).     
+  It will them sort through each of the bars using the Bubble Sort algorithm, highlightig each swapped element as it sorts through them.     
+  The final product should look like the bars are sorted from shortest to tallest. 
